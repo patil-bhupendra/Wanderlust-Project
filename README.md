@@ -22,4 +22,4 @@ Admins can manage listings, edit details, and maintain the platform easily.
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose ODM)
 - **Authentication:** JWT, Passport (if added)
-- **Other:** dotenv, method-override, express-session
+
