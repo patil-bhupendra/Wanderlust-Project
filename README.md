@@ -1,4 +1,4 @@
-# 🌍 Wanderlust - Travel Booking Web Application
+# 🌍 Wanderlust
 
 Wanderlust is a travel booking web application built using **Node.js, Express.js, MongoDB, and EJS**.  
 It allows users to explore travel listings, view details, and book their dream destinations.  
